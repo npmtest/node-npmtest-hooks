@@ -1,4 +1,7 @@
-# test coverage for  [hooks (v0.3.2)](https://github.com/bnoguchi/hooks-js/)  [![npm package](https://img.shields.io/npm/v/npmtest-hooks.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hooks) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hooks.svg)](https://travis-ci.org/npmtest/node-npmtest-hooks)
+# npmtest-hooks
+
+#### test coverage for  [hooks (v0.3.2)](https://github.com/bnoguchi/hooks-js/)  [![npm package](https://img.shields.io/npm/v/npmtest-hooks.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hooks) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hooks.svg)](https://travis-ci.org/npmtest/node-npmtest-hooks)
+
 #### Adds pre and post hook functionality to your JavaScript methods.
 
 [![NPM](https://nodei.co/npm/hooks.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hooks)
